@@ -18,7 +18,7 @@ First of all, you will need two things:
 ### Installation
 1. Clone
 ```
-git@github.com:luizfelipe0854/biscoitodasorte.git
+git clone git@github.com:luizfelipe0854/biscoitodasorte.git
 ```
 2. Initializing the code
 ```
