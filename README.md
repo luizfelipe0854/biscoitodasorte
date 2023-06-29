@@ -1,4 +1,4 @@
-# **Fortune cookie** 📋
+# **Fortune cookie** 🍪
 
 [Link to Fortune cookie](biscoitodasorteluiz.netlify.app)
 
